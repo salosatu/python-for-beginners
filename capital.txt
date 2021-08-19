@@ -1,0 +1,13 @@
+India/Delhi
+China/Beijing
+Finland/Helsinki
+France/Paris
+Spain/Madrid
+Argentina/Buenos Aires
+Egypt/Cairo
+Sweden/Stockholm
+Norway/Oslo
+Denmark/Copenhagen
+Austria/Wien
+Australia/Canberra
+Belarus/Minsk
