@@ -1,4 +1,6 @@
-def testi(a, b):
-   print(a + b) 
+def tee_jotain(a: int):
+    b = 2 * a
+    return b
 
-testi("eka", "toka")
+
+x = tee_jotain(23)
